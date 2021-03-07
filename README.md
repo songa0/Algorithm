@@ -1,5 +1,5 @@
-# Programmers
-🔭 프로그래머스 사이트(https://programmers.co.kr/)의 알고리즘 문제 풀이입니다.   
+# Algorithm
+🔭 프로그래머스 사이트(https://programmers.co.kr/), 백준 사이트(https://www.acmicpc.net/)의 알고리즘 문제 풀이입니다.   
 <br/>
 
 ### 코딩테스트 고득점 Kit  
