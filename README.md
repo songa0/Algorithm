@@ -24,3 +24,7 @@ https://programmers.co.kr/learn/challenges?tab=all_challenges
 
 <br/><br/>
 ## 백준
+
+|문제 번호|문제 이름|코드|
+|:-------|:-------|:---|
+|[1927번](https://www.acmicpc.net/problem/1927)|최소힙|[java](https://github.com/songa0/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/1927%EB%B2%88%20%EC%B5%9C%EC%86%8C%ED%9E%99.md#%EB%AC%B8%EC%A0%9C)|
