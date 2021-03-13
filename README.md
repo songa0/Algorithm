@@ -13,6 +13,7 @@ https://programmers.co.kr/learn/challenges
 |스택/큐| [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | [java](https://github.com/songa0/Programmers/blob/main/Stack%20Queue/%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD.md#%EB%AC%B8%EC%A0%9C)|
 |스택/큐| [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | [java](https://github.com/songa0/Programmers/blob/main/Stack%20Queue/%ED%94%84%EB%A6%B0%ED%84%B0.md#%EB%AC%B8%EC%A0%9C)|
 |스택/큐| [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)|[java](https://github.com/songa0/Programmers/blob/main/Stack%20Queue/%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.md#%EB%AC%B8%EC%A0%9C)|
+|힙| [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)|[java](https://github.com/songa0/Algorithm/blob/main/Heap/%EB%94%94%EC%8A%A4%ED%81%AC%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC.md#%EB%AC%B8%EC%A0%9C)|
 <br/>
 
 ### Level 3   
