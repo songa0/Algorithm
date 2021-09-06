@@ -18,10 +18,17 @@ https://programmers.co.kr/learn/challenges
 
 ### Level 3   
 https://programmers.co.kr/learn/challenges?tab=all_challenges
-
 |문제 이름|코드|
 |:-------|:---|
 |[2 x n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900)|[java](https://github.com/songa0/Programmers/blob/main/Level%203/2%20x%20n%20%ED%83%80%EC%9D%BC%EB%A7%81.md#%EB%AC%B8%EC%A0%9C)|
+
+
+### Level 1   
+
+|문제 이름|코드|
+|:-------|:---|
+|[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)|[javascript](https://github.com/songa0/Algorithm/blob/main/Level%201/%EC%8B%A4%ED%8C%A8%EC%9C%A8.md#%EB%AC%B8%EC%A0%9C)|
+
 
 <br/><br/>
 ## 백준
