@@ -22,9 +22,13 @@ https://programmers.co.kr/learn/challenges?tab=all_challenges
 |:-------|:---|
 |[2 x n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900)|[java](https://github.com/songa0/Programmers/blob/main/Level%203/2%20x%20n%20%ED%83%80%EC%9D%BC%EB%A7%81.md#%EB%AC%B8%EC%A0%9C)|
 
-
+### Level 2   
+|문제 이름|코드|
+|:-------|:---|
+|[순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)|[javascript](https://github.com/songa0/Algorithm/blob/main/Level%202/%EC%88%9C%EC%9C%84%20%EA%B2%80%EC%83%89.md#%EB%AC%B8%EC%A0%9C)|
+|[뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)|[javascript](https://github.com/songa0/Algorithm/blob/main/Level%202/%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.md#%EB%AC%B8%EC%A0%9C)|
+  
 ### Level 1   
-
 |문제 이름|코드|
 |:-------|:---|
 |[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)|[javascript](https://github.com/songa0/Algorithm/blob/main/Level%201/%EC%8B%A4%ED%8C%A8%EC%9C%A8.md#%EB%AC%B8%EC%A0%9C)|
