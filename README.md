@@ -25,8 +25,15 @@ https://programmers.co.kr/learn/challenges?tab=all_challenges
 ### Level 2   
 |문제 이름|코드|
 |:-------|:---|
-|[순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)|[javascript](https://github.com/songa0/Algorithm/blob/main/Level%202/%EC%88%9C%EC%9C%84%20%EA%B2%80%EC%83%89.md#%EB%AC%B8%EC%A0%9C)|
 |[뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)|[javascript](https://github.com/songa0/Algorithm/blob/main/Level%202/%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.md#%EB%AC%B8%EC%A0%9C)|
+|[멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)|[javascript](https://github.com/songa0/Algorithm/blob/main/Level%202/%EB%A9%80%EC%A9%A1%ED%95%9C%20%EC%82%AC%EA%B0%81%ED%98%95.md#%EB%AC%B8%EC%A0%9C)|
+|[삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)|[javascript](https://github.com/songa0/Algorithm/blob/main/Level%202/%EC%82%BC%EA%B0%81%20%EB%8B%AC%ED%8C%BD%EC%9D%B4.md#%EB%AC%B8%EC%A0%9C)|
+|[순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)|[javascript](https://github.com/songa0/Algorithm/blob/main/Level%202/%EC%88%9C%EC%9C%84%20%EA%B2%80%EC%83%89.md#%EB%AC%B8%EC%A0%9C)|
+|[스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)|[javascript](https://github.com/songa0/Algorithm/blob/main/Level%202/%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC.md#%EB%AC%B8%EC%A0%9C)|
+|[조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)|[javascript](https://github.com/songa0/Algorithm/blob/main/Level%202/%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1.md#%EB%AC%B8%EC%A0%9C)|
+|[프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)|[javascript](https://github.com/songa0/Algorithm/blob/main/Level%202/%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D.md#%EB%AC%B8%EC%A0%9C)|
+|[후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)|[javascript](https://github.com/songa0/Algorithm/blob/main/Level%202/%ED%9B%84%EB%B3%B4%ED%82%A4.md#%EB%AC%B8%EC%A0%9C)|
+
   
 ### Level 1   
 |문제 이름|코드|
