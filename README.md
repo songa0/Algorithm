@@ -21,6 +21,11 @@ https://programmers.co.kr/learn/challenges?tab=all_challenges
 |문제 이름|코드|
 |:-------|:---|
 |[2 x n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900)|[java](https://github.com/songa0/Programmers/blob/main/Level%203/2%20x%20n%20%ED%83%80%EC%9D%BC%EB%A7%81.md#%EB%AC%B8%EC%A0%9C)|
+|[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)|[javascript](https://github.com/songa0/Algorithm/blob/main/Level%203/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.md#%EB%AC%B8%EC%A0%9C)|
+|[단어변환](https://programmers.co.kr/learn/courses/30/lessons/43163)|[javascript](https://github.com/songa0/Algorithm/blob/main/Level%203/%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98.md#%EB%AC%B8%EC%A0%9C)|
+|[베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)|[javascript](https://github.com/songa0/Algorithm/blob/main/Level%203/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.md#%EB%AC%B8%EC%A0%9C)|
+|[여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164?language=javascript)|[javascript](https://github.com/songa0/Algorithm/blob/main/Level%203/%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C.md#%EB%AC%B8%EC%A0%9C)|
+|[이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)|[javascript](https://github.com/songa0/Algorithm/blob/main/Level%203/%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.md#%EB%AC%B8%EC%A0%9C)|
 
 ### Level 2   
 |문제 이름|코드|
